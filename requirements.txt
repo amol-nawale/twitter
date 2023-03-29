@@ -1,3 +1,4 @@
+snscrape
 TextBlob
 matplotlib
 pandas
@@ -5,11 +6,9 @@ numpy
 matplotlib
 seaborn
 nltk
-openpyxl
-
 datetime
 streamlit >= 1.9.2 
 wordcloud
 
-snscrape
+
 
